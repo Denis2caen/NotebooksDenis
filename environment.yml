@@ -6,3 +6,4 @@ dependencies:
   - bokeh
   - rise
   - folium
+  - python-csv
