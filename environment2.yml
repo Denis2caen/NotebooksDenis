@@ -1,1 +1,8 @@
-folium
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
+  - folium
