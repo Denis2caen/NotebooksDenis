@@ -1,8 +1,9 @@
-python
-numpy
-matplotlib
-pandas
-bokeh
-rise
-folium
-csv
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
+  - folium
+  - csv
