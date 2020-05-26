@@ -3,5 +3,5 @@ matplotlib==3.*
 seaborn==0.8.1
 folium
 pandas
-csv
+python-csv
 
