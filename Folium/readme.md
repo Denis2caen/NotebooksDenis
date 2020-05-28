@@ -1,1 +1,1 @@
-Ce dosier sert pour tetser le module folium de Python
+Ce dosier sert pour tester le module folium de Python
