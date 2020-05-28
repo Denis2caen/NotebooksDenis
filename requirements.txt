@@ -4,4 +4,4 @@ seaborn==0.8.1
 folium
 pandas
 python-csv
-#je ne sais pas si ce ficheir est utilisé vu qu'il y a un fichier environment.yml
+#je ne sais pas si ce fichier est utilisé vu qu'il y a un fichier environment.yml
